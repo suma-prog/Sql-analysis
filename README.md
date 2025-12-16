@@ -13,7 +13,6 @@ Analyze customer and order data to identify business trends.
 
 ## Skills Demonstrated
 - JOINs, Aggregations, CTEs
-
 ## Dataset
 Sample customer and order dataset
 
